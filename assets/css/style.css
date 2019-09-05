@@ -1,0 +1,18 @@
+body {
+   background: url("../images/question-mark-background.jpg");
+   align-items: center;
+
+}
+
+#bodybox {
+
+width: 700px;
+height: 700px;
+background: lightyellow;
+margin: 20px;
+
+}
+
+h1 {
+    text-align: center;
+}
