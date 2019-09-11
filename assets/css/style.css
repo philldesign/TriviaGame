@@ -10,9 +10,9 @@ width: 700px;
 height: 700px;
 background: lightyellow;
 margin: 20px;
+opacity: .9;
+text-align: center;
+box-align: center;
 
 }
 
-h1 {
-    text-align: center;
-}
